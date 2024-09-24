@@ -79,11 +79,5 @@ ul {
     list-style-type: none;
     adding: 0;
    }
-li {
-    margin-bottom: 15px;
-    padding: 10px;
-    background-color: #fff;
-    border-radius: 5px;
-    ox-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    }
+
 
