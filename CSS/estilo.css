@@ -74,15 +74,16 @@ footer{
     position: static;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
     }
+
 ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 15px;
-            padding: 10px;
-            background-color: #fff;
-            border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        }
+    list-style-type: none;
+    adding: 0;
+   }
+li {
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    ox-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
 
