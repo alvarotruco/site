@@ -28,8 +28,8 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin-right: 150px;
-    margin-left: 150px;
+    margin-right: 50px;
+    margin-left: 50px;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
