@@ -28,8 +28,8 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin-right: 70px;
+    margin-left: 70px;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -84,20 +84,20 @@ footer{
 
 ol {
     list-style-type: none;
-    padding: 0; /* Corrigido de 'adding' para 'padding' */
+    padding: 0; 
 }
 
 ul {
     list-style-type: none;
-    padding: 10px 0; /* Adiciona espaçamento */
-    margin: 20px 0; /* Espaçamento em relação a outros elementos */
-    background-color: #ff4d4d57; /* Mesma cor de fundo do nav */
-    text-align: center; /* Centraliza o texto */
+    padding: 10px 0; 
+    margin: 20px 0; 
+    background-color: #ff4d4d57; 
+    text-align: center; 
 }
 
 ul li {
-    display: inline-block; /* Para que fiquem lado a lado */
-    margin: 0 30px; /* Espaçamento entre os itens */
+    display: inline-block; 
+    margin: 0 30px; 
 }
 
 ul li a {
