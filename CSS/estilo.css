@@ -77,7 +77,26 @@ footer{
 
 ol {
     list-style-type: none;
-    adding: 0;
-   }
+    padding: 0; /* Corrigido de 'adding' para 'padding' */
+}
+
+ul {
+    list-style-type: none;
+    padding: 10px 0; /* Adiciona espaçamento */
+    margin: 20px 0; /* Espaçamento em relação a outros elementos */
+    background-color: #ff4d4d57; /* Mesma cor de fundo do nav */
+    text-align: center; /* Centraliza o texto */
+}
+
+ul li {
+    display: inline-block; /* Para que fiquem lado a lado */
+    margin: 0 30px; /* Espaçamento entre os itens */
+}
+
+ul li a {
+    color: black;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 
 
